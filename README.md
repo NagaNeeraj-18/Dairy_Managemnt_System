@@ -6,7 +6,7 @@ Built with modern software engineering practices, this backend incorporates role
 
 ---
 
-## 🌟 Key Features & Capabilities
+# 🌟 Key Features & Capabilities
 
 ### 1. Subscription Slot & Inventory Routing
 * **Delivery Slots**: Define daily morning and evening delivery windows with rigid capacity limits.
