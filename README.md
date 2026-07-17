@@ -53,7 +53,7 @@ sequenceDiagram
     end
 ```
 
-### Cancellation and Pool Reallocation Flow
+## Cancellation and Pool Reallocation Flow
 ```mermaid
 sequenceDiagram
     autonumber
