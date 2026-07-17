@@ -78,7 +78,7 @@ sequenceDiagram
     end
 ```
 
-### Secure Delivery OTP Verification Flow
+## Secure Delivery OTP Verification Flow
 ```mermaid
 sequenceDiagram
     autonumber
