@@ -29,7 +29,7 @@ Built with modern software engineering practices, this backend incorporates role
 
 ---
 
-## 📐 Architecture & System Flows
+# 📐 Architecture & System Flows
 
 ### Order Confirmation and Waiting List Allocation Flow
 ```mermaid
